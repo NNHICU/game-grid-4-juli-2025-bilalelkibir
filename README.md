@@ -1,5 +1,5 @@
 # Keuzdeel frontend development (K0722)
-datum: 9 mei 2025
+datum: 4 juli 2025
 
 ## Opdrachtomschrijving
 Minecraft server hosting bedrijf Game Grid wil een nieuwe, moderne website. Zij hebben een design ontvangen van hun designer, en jouw taak is om dit design om te zetten in een werkende website met behulp van moderne webtechnologieën.
